@@ -1,13 +1,13 @@
 {
-      "name": "SZROSEBOT",
-      "description": "Hey there 👋 I'm szrosebot .A Powerful, Smart And Simple Group Manager with some extra features..",
+      "name": "AURORA",
+      "description": "Hey there 👋 I'm AURORA .A Powerful, Smart And Simple Group Manager with some extra features..",
 	  "logo": "https://telegra.ph/file/9dd16a0599147d664f2a8.jpg",
       "keywords": [
          "Telegram",
          "Groupmanager",
-         "sz-rose-bot"
+         "AURORA"
       ],   
-   "repository": "https://github.com/youtubeslgeekshow/sz-rose-bot",
+   "repository": "https://github.com/parkseojoon2005/test1",
    "addons": [
       {
          "options": {
