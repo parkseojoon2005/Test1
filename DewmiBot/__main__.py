@@ -70,9 +70,9 @@ Hey there!👋  My name is Aurora✨
 
 I can manage your  group with lots of useful features, feel free to add me to your group.
 
-✨ Pọwẹrẹɗ Ɓy : Hermione Updates
+✨ Pọwẹrẹɗ Ɓy : Hermione Support
 ✮───────────────✮
-🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : PSJ And Percy
+🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : Park And Percy
 ✮───────────────✮
 """
 
@@ -493,7 +493,7 @@ def DewmiBot_about_callback(update, context):
         query.message.edit_text(
             text=f"* CREDITS  FOR Aurora  DEV *\n"
             f"\n Here you can find information about the bots I coded and the people who helped me create Rose"
-            f"\n Special credits [Hermione] (https://t.me/HermioneSLbot [Hiruna Official](https://github.com/hirunaofficial/Telegram-Group-Management-Bot-DewmiBot)  & [The Anki Vector](https://github.com/Damantha126/The-Anki-Vector)"
+            f"\n Special credits [Hermione] (https://t.me/HermioneSLbot) [Hiruna Official](https://github.com/hirunaofficial/Telegram-Group-Management-Bot-DewmiBot)  & [The Anki Vector](https://github.com/Damantha126/The-Anki-Vector)"
             f"\n Finally my special thanks to you for using this bot !! ",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -556,7 +556,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Click me for help!",
-                            url="https://t.me/szrosebot",
+                            url="https://t.me/Aurora_x_Bot",
                         )
                     ],
                 ]
